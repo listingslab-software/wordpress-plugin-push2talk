@@ -1,0 +1,8 @@
+{
+  "name": "wordpress-plugin-push2talk",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/listingslab-software/wordpress-plugin-push2talk.git",
+  "author": "listingslab <listingslab@gmail.com>",
+  "license": "MIT"
+}
