@@ -5,7 +5,7 @@
 
 [listingslab.com](https://listingslab.com/work/wordpress/plugins/push2talk/)
 
-![Wordpress Push2talk Plugin](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Wordpress Push2talk Plugin")
+![Wordpress Push2talk Plugin](./push2talk/public/png/push2talk.png "Wordpress Push2talk Plugin")
 
 Publicly available repository for Push2Talk WordPress Plugin. Contai.ns the an Open Source WrodPress plugin wrapper around a compile react app. WordPress Progressive Web App
 
