@@ -1,6 +1,6 @@
 # Push2talk Plugin
 
-## Reach out with accuracy
+## Reaching out with accuracy
 
 > Custom WordPress Progressive Web App Plugin for Push2talk
 

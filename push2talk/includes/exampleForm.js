@@ -1,6 +1,6 @@
 export const messageFormExample = {
     formTitle: `Message Form Example`,
-    formDescription: `Reach out with accuracy`,
+    formDescription: `Reaching out with accuracy`,
     fields: [
         {
             label: `Your message`,

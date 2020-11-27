@@ -3,7 +3,7 @@
 
 [listingslab.com](https://listingslab.com/work/wordpress/plugins/push2talk/)
 
-> Reach out with accuracy
+> Reaching out with accuracy
 
 # Local Symlink Install
 
