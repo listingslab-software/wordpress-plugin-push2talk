@@ -14,3 +14,7 @@ Website contact forms have always been rubbish. They rely on email which quickly
 There are some very real downsides to running your Customer Service on Social Media, even though it's easy. With modern JavaScript we can use fancy pants events for pretty much everything, but in this case we wanted something more old skool. Like a heart beat. 
 
 Sometimes doing things at the speed of JavaScript isn't good for a user. They are human and they don't measure time in milliseconds. They measure it in seconds, so we do too. The App's heart beats once per second. Clockwork exposes hooks which let us execute actions in a more human timeframe We send a chunk of JSON to our Google Cloud Functions
+
+## Install & Use
+
+- Grab the latest zip file. You can either clone this repo to keep abreast of changes, or just [download it directly here](./latest.zip)
