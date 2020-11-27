@@ -4,11 +4,7 @@
 
 > Reach out with accuracy
 
-[listingslab.com](https://listingslab.com/work/wordpress/plugins/push2talk/)
-
-
-
-Publicly available repository for Push2Talk WordPress Plugin. Contai.ns the an Open Source WrodPress plugin wrapper around a compile react app. WordPress Progressive Web App
+Publicly available repository for Push2Talk WordPress Plugin. Contai.ns the an Open Source WrodPress plugin wrapper around a compile react app. WordPress Progressive Web App. [Learn more on listingslab.com](https://listingslab.com/work/wordpress/plugins/push2talk/)
 
 ## About
 
