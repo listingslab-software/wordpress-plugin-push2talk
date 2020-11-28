@@ -6,7 +6,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the admin area.
  *
- * @link       https://listingslab.com/work/push2talk/
+ * @link       https://listingslab.com/work/wordpress/plugins/push2talk/
  * @since      0.0.1
  *
  * @package    push2talk

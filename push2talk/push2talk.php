@@ -1,15 +1,14 @@
 <?php
 
 /**
- * @link              https://listingslab.com/work/wordpress/plugins
- * @since             0.0.1
+ * @link              https://listingslab.com/work/wordpress/plugins/push2talk/
  * @package           push2talk
  *
  * @wordpress-plugin
- * Version:           9.0.0
- * Plugin Name:       Push2talk 9.0.0
- * Description:       Website contact forms have always been rubbish. This is better
- * Plugin URI:        https://listingslab.com/work/wordpress/plugins
+ * Version:           9.2.5
+ * Plugin Name:       Push2talk 9.2.5
+ * Description:       Website contact forms have always been rubbish. This one is better
+ * Plugin URI:        https://listingslab.com/work/wordpress/plugins/push2talk/
  * Author:            listingslab
  * Author URI:        https://listingslab.com
  * License:           GPL-2.0+
@@ -21,7 +20,8 @@
 if ( ! defined( 'WPINC' ) ) {
 	die;
 }
-define( 'push2talk_VERSION', '9.0.0' );
+define( 'push2talk_VERSION', '9.2.5' );
+
 
 add_action('admin_menu', 'push2talk_plugin_setup_menu');
 function push2talk_plugin_setup_menu(){
