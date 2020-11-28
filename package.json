@@ -1,8 +1,12 @@
 {
   "name": "wordpress-plugin-push2talk",
-  "version": "9.2.2",
-  "main": "index.js",
+  "version": "9.2.7",
   "repository": "https://github.com/listingslab-software/wordpress-plugin-push2talk.git",
   "author": "listingslab <listingslab@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "clear && yarn build:manager && yarn build:widget",
+    "build:manager": "cd ./push2talk_src/admin/manager && yarn && yarn build",
+    "build:widget": "cd ./push2talk_src/public/widget && yarn && yarn build"
+  }
 }

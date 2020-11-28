@@ -1,0 +1,9 @@
+{
+  "name": "push2talk",
+  "version": "9.2.7",
+  "description": "WordPress Plugin",
+  "main": "index.php",
+  "repository": "https://github.com/listingslab-software/push2talk_src.git",
+  "author": "Chris Dorward <listingslab@gmail.com>",
+  "license": "MIT"
+}
