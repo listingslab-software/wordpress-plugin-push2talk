@@ -1,5 +1,5 @@
 ## Wordpress Push2talk Plugin
-![Wordpress Push2talk Plugin](./push2talk/public/push2talk.png)
+![Wordpress Push2talk Plugin](https://listingslab.com/wp-content/uploads/2020/11/push2talk_20sq.png)
 
 > Reaching out with accuracy
 
