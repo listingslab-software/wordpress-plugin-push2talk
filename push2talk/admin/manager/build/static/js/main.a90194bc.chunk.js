@@ -1,0 +1,2 @@
+(this.webpackJsonpmanager=this.webpackJsonpmanager||[]).push([[0],{9:function(e,n,a){"use strict";a.r(n);var t=a(0),r=a(1),c=a.n(r),s=a(3);var i=function(){return Object(t.jsx)("div",{children:"Push2Talk Manager"})};a.n(s).a.render(Object(t.jsx)(c.a.StrictMode,{children:Object(t.jsx)(i,{})}),document.getElementById("push2talk-manager"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.a90194bc.chunk.js.map

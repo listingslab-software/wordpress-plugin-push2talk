@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .json {
+ 	background: #eee;
+ 	border: 1px dashed #ddd;
+ 	max-width: 650px;
+ 	overflow: hidden;
+ 	border-radius: 8px;
+ 	padding: 8px;
+ }
+
+ .footer {
+ 	margin-top: 32px;
+ 	text-align: center;
+ }
+
+ .footerIcon {
+ 	margin: 8px;
+ }
