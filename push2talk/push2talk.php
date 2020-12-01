@@ -5,8 +5,8 @@
  * @package           push2talk
  *
  * @wordpress-plugin
- * Version:           9.3
- * Plugin Name:       Push2talk 9.3
+ * Version:           10.4
+ * Plugin Name:       Push2talk 10.4
  * Description:       Website contact forms have always been rubbish. This one is better
  * Plugin URI:        https://listingslab.com/work/wordpress/plugins/push2talk/
  * Author:            listingslab
@@ -20,7 +20,7 @@
 if ( ! defined( 'WPINC' ) ) {
 	die;
 }
-define( 'push2talk_VERSION', '9.3' );
+define( 'push2talk_VERSION', '10.4' );
 
 
 add_action('admin_menu', 'push2talk_plugin_setup_menu');
